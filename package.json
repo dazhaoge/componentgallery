@@ -1,0 +1,41 @@
+{
+  "name": "componentgallery",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "svg-sprite-loader": "4.1.3",
+    "@babel/register": "7.0.0",
+    "axios": "^0.19.2",
+    "body-parser": "latest",
+    "chalk": "latest",
+    "chokidar": "latest",
+    "core-js": "^3.6.4",
+    "element-ui": "^2.13.1",
+    "fuse.js": "3.4.4",
+    "js-cookie": "^2.2.1",
+    "mockjs": "^1.1.0",
+    "normalize.css": "7.0.0",
+    "nprogress": "^0.2.0",
+    "screenfull": "4.2.0",
+    "vue": "^2.6.11",
+    "vue-class-component": "^7.2.3",
+    "vue-property-decorator": "^8.4.1",
+    "vue-router": "^3.1.6",
+    "vuex": "^3.1.3"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.3.0",
+    "@vue/cli-plugin-router": "~4.3.0",
+    "@vue/cli-plugin-typescript": "~4.3.0",
+    "@vue/cli-plugin-vuex": "~4.3.0",
+    "@vue/cli-service": "~4.3.0",
+    "sass": "^1.26.3",
+    "sass-loader": "^8.0.2",
+    "typescript": "~3.8.3",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
